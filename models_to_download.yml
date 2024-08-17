@@ -1,0 +1,21 @@
+models:
+  - link: "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16"
+    model_name: "dreamshaper_xl.safetensors"
+    model_type: "checkpoints"
+
+  - link: "https://civitai.com/api/download/models/297740?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    model_name: "dynavision_xl.safetensors"
+    model_type: "checkpoints"
+    
+  - link: "https://civitai.com/api/download/models/331598?type=Model&format=SafeTensor"
+    model_name: "aesthetic_anime_v1s.safetensors"
+    model_type: "loras"
+    
+  - link: "https://civitai.com/api/download/models/333245?type=Model&format=SafeTensor"
+    model_name: "sdxl_vae.safetensors"
+    model_type: "vae"
+    
+  - link: "https://civitai.com/api/download/models/623042?type=Model&format=SafeTensor"
+    model_name: "pillows.safetensors"
+    model_type: "loras"
+
